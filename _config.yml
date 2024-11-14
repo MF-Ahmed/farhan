@@ -13,7 +13,7 @@ name                     : &name "R. Stuart Geiger"
 description              : &description "computational ethnographer<br/>ethnographer of computation"
 url                      : https://mf-ahmed.github.io/farhan/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/MF-Ahmed/farhan"
+repository               : "MF-Ahmed/farhan"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 seo_description          : "Site for Richard Stuart Geiger, Professor of Communication and Data Science at UC San Diego"
